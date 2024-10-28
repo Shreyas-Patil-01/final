@@ -55,7 +55,7 @@ app.listen(PORT, () => {
 app.use(
   cors({
     origin: [
-      "http://localhost:3000",
+      
       "https://final-1ahye644j-shreyas-patils-projects-57471623.vercel.app",
     ],
   })
