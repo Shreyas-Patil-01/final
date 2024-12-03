@@ -53,7 +53,7 @@ function App() {
   return (
     <div className="app-container">
       <header className="header">
-        <h1>KM-PromQLBot</h1>
+        <h1>PromQLBot</h1>
       </header>
 
       <div className="chat-container">
